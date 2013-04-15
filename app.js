@@ -1,17 +1,17 @@
 (function($){
 
-  var FacebookRedirect = function(){
-    this.facebookUrl = "http://www.facebook.com/";
+  var Flickr = function(){
+    this.flickrUrl = "http://www.flickr.com/";
   }
 
 
-  FacebookRedirect.prototype.redirect = function(){
-    window.location.replace(this.facebookUrl);
+  Flickr.prototype.redirect = function(){
+    window.location.replace(this.flickrUrl);
   }
 
 
   $(document).ready(function(){
-    var fRedirect = new FacebookRedirect();
+    var fRedirect = new Flickr();
     fRedirect.redirect();
   });
 

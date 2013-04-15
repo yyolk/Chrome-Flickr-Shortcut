@@ -1,12 +1,12 @@
-Provide a shortcut to Facebook
+Provide a shortcut to Flickr
 ======================================
 
-Shortcut to Facebook, since I like a shortcut on my new Tab page.
+Shortcut to Flickr, since I like a shortcut on my new tab page.
 
 Install from the Chrome Web Store
 ---------------------------------
 
-[Just go here](https://chrome.google.com/webstore/detail/facebook/elmcfkhpnffadajandkmfmkcljhbgffk)
+[Just go here](http://google.com) - not available yet
 
 Install from the Git
 --------------------
@@ -14,6 +14,6 @@ Install from the Git
   1. Enable Developer mode in the Extension setting
   2. Load this folder as an unpacked extension.
 
-Icon by [Dan Leech](http://www.iconarchive.com/show/simple-icons-by-danleech/facebook-icon.html)
+Icon by [magicdaddy](http://www.flickr.com/photos/magicdaddy/3599718962/)
 
-facebook copyright [facebook.com](http://facebook.com)
+Flickr copyright [Flickr.com](http://flickr.com)
